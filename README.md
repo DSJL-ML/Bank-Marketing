@@ -2,7 +2,7 @@
 Build machine learning algorithms for bank telemarketing.
 
 ## Summary
-A dataset collected from a Portuguese retail bank is based upon to build machine learning models to predict clients who are likely to subscribe a term deposit after contacted by bank agents through phone calls.
+A dataset collected from a Portuguese retail bank is based upon to build machine learning models to predict clients who are likely to subscribe a term deposit after contacted by bank agents through phone calls. The python code execution is in bank-marketing.html and project report is in project_report.pdf.
 
 
 ## Software
