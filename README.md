@@ -4,6 +4,9 @@ Build machine learning algorithms for bank telemarketing.
 ## Summary
 A dataset collected from a Portuguese retail bank is based upon to build machine learning models to predict clients who are likely to subscribe a term deposit after contacted by bank agents through phone calls. The python code execution is in [bank-marketing.html](https://github.com/ljj-ml/Bank-Marketing/blob/master/bank-marketing.html) and project report is in [project_report.pdf](https://github.com/ljj-ml/Bank-Marketing/blob/master/project_report.pdf).
 
+## Result
+The algorithm is able to identify >70% of subscribers with only 20% of total clients contaced by bank.
+
 
 ## Software
 This project is written in Python 3.5 and requires the installation of the following Python libraries:
